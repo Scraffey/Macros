@@ -1,5 +1,5 @@
 # Macros
-Macro Semester Porject for the CSOC
+Macro Semester Project for the CSOC
 
 ## Finished Files
 Word Docs with Hidden VBScripts as Macros
